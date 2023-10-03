@@ -8,11 +8,13 @@ body {
 
 .container {
     padding: 20px;
+    height: 100vh;
 }
 
 h1 {
     color: #333;
 }
+
 
 button {
     padding: 10px 20px;
@@ -20,6 +22,7 @@ button {
     background-color: #0074d9;
     color: #fff;
     border: none;
+    border-radius: 5px;
     cursor: pointer;
     outline: none;
 }
